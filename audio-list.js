@@ -1,0 +1,1 @@
+window.PRECACHE_AUDIOS = ["./assets/audios/correct.mp3","./assets/audios/incorrect.mp3"]

@@ -1,0 +1,1 @@
+window.PRECACHE_IMAGES = ["./assets/images/iwbView.png","./assets/images/teachernote.png","./assets/images/Sign.png","./assets/images/cardCover.png","./assets/images/Normal.png","./assets/images/Smaller.png","./assets/images/Turned.png","./assets/images/footerBtn.png","./assets/images/SignNormal.png"]
